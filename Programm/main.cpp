@@ -3,7 +3,7 @@
 //Pins
 const int LDR_links = A0;
 const int LDR_rechts = A1;
-const int motor [2] = {5, 7}
+const int motor [2] = {5, 7};
 const int pushbutton = 4;
 
 //LDR-Kalibrierung
